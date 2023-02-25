@@ -8,7 +8,7 @@
 .idea/
 
 # Maven build directory
-#target/
+target/
 
 # Eclipse files
 .classpath
